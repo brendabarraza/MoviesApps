@@ -26,5 +26,5 @@ You can view the Figma prototype of the app [here](https://www.figma.com/proto/a
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/MovieFinder.git
+   git clone https://github.com/brendabarraza/MoviesApps.git
 
