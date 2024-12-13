@@ -10,12 +10,35 @@ MovieFinder is a mobile application developed in Swift for iPhone and iPad that 
 - **User Profile**: Save movies you've watched to your personal profile.
 - **Compatibility**: The app is optimized for both iPhone and iPad.
 
+## Technical Details
+
+### **Architecture**
+The app follows the MVVM (Model-View-ViewModel) architecture to ensure modularity and ease of maintenance.  
+
+- **Model**: Represents movie-related data fetched from the TMDB API.
+- **ViewModel**: Handles the application's business logic, including fetching movies, filtering data, and managing app states using `@Published` properties for SwiftUI reactivity.
+- **View**: Built with SwiftUI to bind UI components to data from the ViewModel.  
+
+### **Core Functionality**
+The app integrates with the TMDB API using asynchronous calls. The `MoviesViewModel` class, for instance:  
+- Fetches movies by title.  
+- Retrieves video trailers for selected movies.  
+- Manages state for the currently selected movie, search results, and UI navigation.  
+
+API calls are made using `URLSession`, and data is parsed with `JSONDecoder`. Error handling ensures graceful failure during network issues or unexpected API responses.
+
+---
+
 ## Technologies Used
 
-- **Swift**: The main programming language.
-- **TMDB API**: For fetching movie data, trailers, and more.
-- **UIKit**: For building the user interface.
-- **Core Data / Firebase**: For storing the history of movies you’ve watched (depending on your implementation).
+- **Swift**: Programming language for iOS app development.  
+- **SwiftUI**: Declarative framework for building the user interface.  
+- **Combine Framework**: Manages data flow and updates between the ViewModel and UI.  
+- **TMDB API**: Provides movie data.  
+- **URLSession**: Facilitates network requests.  
+- **JSONDecoder**: Decodes API responses into app models.  
+
+---
 
 ## Figma Prototype
 
