@@ -40,14 +40,20 @@ API calls are made using `URLSession`, and data is parsed with `JSONDecoder`. Er
 
 ---
 
-## Figma Prototype
-
-You can view the Figma prototype of the app [here](https://www.figma.com/proto/aCtVNm5U7a7kZBKAJvdYQa/Untitled?node-id=10-31&node-type=canvas&t=fajOnrOFzDMhviI8-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A2).
-
 ## Installation Instructions
 
 1. Clone this repository to your local machine:
 
    ```bash
    git clone https://github.com/brendabarraza/MoviesApps.git
+
+
+---
+
+## Figma Prototype
+
+You can view the Figma prototype of the app [here](https://www.figma.com/proto/aCtVNm5U7a7kZBKAJvdYQa/Untitled?node-id=10-31&node-type=canvas&t=fajOnrOFzDMhviI8-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A2).
+
+
+
 
