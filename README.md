@@ -17,9 +17,14 @@ MovieFinder is a mobile application developed in Swift for iPhone and iPad that 
 - **UIKit**: For building the user interface.
 - **Core Data / Firebase**: For storing the history of movies you’ve watched (depending on your implementation).
 
+## Figma Prototype
+
+You can view the Figma prototype of the app [here]([https://www.figma.com/file/your-prototype-link](https://www.figma.com/design/aCtVNm5U7a7kZBKAJvdYQa/Untitled?node-id=5-2&t=lZWIiZEawemPMT4U-1)).
+
 ## Installation Instructions
 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/brendabarraza/MoviesApps.git
+   git clone https://github.com/your-username/MovieFinder.git
+
