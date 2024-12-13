@@ -19,7 +19,7 @@ MovieFinder is a mobile application developed in Swift for iPhone and iPad that 
 
 ## Figma Prototype
 
-You can view the Figma prototype of the app [here](https://www.figma.com/design/aCtVNm5U7a7kZBKAJvdYQa/Untitled?node-id=5-2&m=dev&t=lZWIiZEawemPMT4U-1).
+You can view the Figma prototype of the app [here](https://www.figma.com/proto/aCtVNm5U7a7kZBKAJvdYQa/Untitled?node-id=10-31&node-type=canvas&t=fajOnrOFzDMhviI8-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A2).
 
 ## Installation Instructions
 
