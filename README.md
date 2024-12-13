@@ -40,7 +40,7 @@ API calls are made using `URLSession`, and data is parsed with `JSONDecoder`. Er
 
 ---
 
-## Installation Instructions
+## Installation 
 
 1. Clone this repository to your local machine:
 
