@@ -51,16 +51,16 @@ API calls are made using `URLSession`, and data is parsed with `JSONDecoder`. Er
 ---
 
 ## Home
-<img src="JsonMovies/capturas appMovies/Frame 1.png" alt="Logo de la app" width="300">
+<img src="JsonMovies/capturas appMovies/Frame 1.png" alt="Logo de la app" width="500">
 
 ## Search
-<img src="JsonMovies/capturas appMovies/Frame 2.png" alt="Logo de la app" width="300">
+<img src="JsonMovies/capturas appMovies/Frame 2.png" alt="Logo de la app" width="500">
 
 ## Already Seen
-<img src="JsonMovies/capturas appMovies/Frame 3.png" alt="Logo de la app" width="300">
+<img src="JsonMovies/capturas appMovies/Frame 3.png" alt="Logo de la app" width="500">
 
 ## Trailer
-<img src="JsonMovies/capturas appMovies/Frame 4.png" alt="Logo de la app" width="300">
+<img src="JsonMovies/capturas appMovies/Frame 4.png" alt="Logo de la app" width="500">
 
 
 ## Figma Prototype
